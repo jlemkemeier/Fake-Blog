@@ -1,0 +1,15 @@
+title: Sherlock Holmes
+email: sherlock_holmes@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Although better known for my detective skills, my true passion is writing death metal songs. This website is my blog I use to verbalize my musical journey. Any bugs or issues with the website are purposeful and meant as a challenge for you to use your detective skills.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: sholmes
+github_username:  sholmes
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
